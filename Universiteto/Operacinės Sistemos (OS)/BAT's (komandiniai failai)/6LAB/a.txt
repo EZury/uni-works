@@ -1,0 +1,8 @@
+Z:\2LAB\ats.txt 
+Z:\2LAB\keliai.txt 
+Z:\2LAB\New Text Document.txt 
+Z:\2LAB\tekstiniai_failai.txt 
+Z:\4LAB\1bat.bat 
+Z:\4LAB\1batGudrus.bat 
+Z:\4LAB\2bat.bat 
+Z:\4LAB\3bat.bat 
