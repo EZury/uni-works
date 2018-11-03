@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1540828836 source:c:\users\acer e5-571g\desktop\game\spaceinvd\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<ctime>
+
